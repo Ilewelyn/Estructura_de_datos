@@ -1,3 +1,3 @@
 #Estructura de datos
-Autor: Camacho Gómez
+##Autor: Camacho Gómez
 ## Listas Simples
