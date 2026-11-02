@@ -1,7 +1,17 @@
+/*
+* Ejercicio 4: lo que hace este codigo es calcular cuantos cambios se necesitan para corregir los simbolos en un texto
+* primero guarda todos los simbolos que abren y cuando encuentra uno que cierra revisa si coincide con el ultimo que abrio * si no coincide cuenta un cambio si encuentra un cierre solo si al final quedan simbolos abiertos sin pareja marca * que * es imposible arreglarlo
+* @author Camacho Gómez Jenny Alexandra
+* 02/11/26
+*/
 public class Ejercicio4 {
     public static void main(String[] args) {
-        // String cadena = "[)";
-	String cadena = "{{";
+
+	// "[]()" (o "[]()" + "{<>}" debe ser cero y claro entonces "{{" debe dar imposible
+        // String cadena = "[)";  
+	// String cadena = "{{";
+	String cadena = "{<>}";
+
         PilaArreglo<Character> pila = new PilaArreglo<>();
         int cambios = 0;
         boolean imposible = false;
