@@ -1,4 +1,4 @@
 # Estructura de Datos
 
 **Autor:** Camacho Gómez
-## Listas Simples
+## Ejercicios de Pilas
