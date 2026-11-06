@@ -1,14 +1,7 @@
-# \# Estructura de Datos
+# Estructura de Datos
 
-# 
+**Autor:** Camacho Gómez
 
-# \*\*Autor:\*\* Camacho Gómez
+## Ordenamiento_Burbuja
 
-# 
-
-# \## Ordenamiento\_Burbuja
-
-# 
-
-# \## 06/11/2026
-
+## 06/11/2026
