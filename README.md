@@ -1,4 +1,7 @@
 # Estructura de Datos
 
 **Autor:** Camacho Gómez
-## Listas Simples
+
+## Ordenamiento_Burbuja
+
+## 06/11/2026
